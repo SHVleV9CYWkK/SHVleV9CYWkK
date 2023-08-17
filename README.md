@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 class Person:
 
     def __init__(self):
-        self.name = "Huey Bai"
+        self.name = "Jiahui Bai"
         self.role = "Computer Science Researcher"
         self.language_spoken = ["zh_CN", "en_AU"]
 
