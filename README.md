@@ -48,7 +48,7 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
@@ -58,7 +58,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
 
 
-<!-- ## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SHVleV9CYWkK/SHVleV9CYWkK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHVleV9CYWkK&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
@@ -66,7 +66,7 @@ me.say_hi()
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SHVleV9CYWkK&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+</a> 
 
 ## 🏆 GitHub Trophies
 
