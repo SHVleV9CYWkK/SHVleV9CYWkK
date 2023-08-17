@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 # -*- coding: utf-8 -*-
 
 
-class HueyBai:
+class Person:
 
     def __init__(self):
         self.name = "Huey Bai"
@@ -35,7 +35,7 @@ class HueyBai:
         print("Nice to meet you here and hope you are interested in my work.")
 
 
-me = HueyBai()
+me = Person()
 me.say_hi()
 ```
 <!--
