@@ -35,7 +35,8 @@ class Person:
         print("Nice to meet you here and hope you are interested in my work.")
 
     def website_qrcode(self):
-      print("""                     
+      print("""
+   
         █▀▀▀▀▀█ ▄▄█▀█ █▀▀▀▀▀█  
         █ ███ █ ▄▄▀▀█ █ ███ █    
         █ ▀▀▀ █ ▄▀ ▄▀ █ ▀▀▀ █    
@@ -46,7 +47,8 @@ class Person:
         █▀▀▀▀▀█ ▀ ▄▀ █▀  ███▄    
         █ ███ █ █▀▄▀▄▄██▄▀  ▀    
         █ ▀▀▀ █ █▀▄▄██▀▄▄██      
-        ▀▀▀▀▀▀▀ ▀  ▀  ▀▀   ▀    
+        ▀▀▀▀▀▀▀ ▀  ▀  ▀▀   ▀
+
       """)
 
 
