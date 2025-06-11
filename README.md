@@ -28,7 +28,7 @@ class Person:
 
     def __init__(self):
         self.name = "Jiahui Bai"
-        self.role = "Computer Science PhD Student"
+        self.role = "Computer Science PhD Candidate"
         self.language_spoken = ["zh_CN", "en_AU"]
 
     def say_hi(self):
